@@ -10,7 +10,6 @@
 ### 环境准备
 确保车机系统已root，并安装ADB工具
 ### 文件部署
-```bash
 # 创建目标目录
 adb shell "mkdir -p /data/local/tmp/llama"
 # 推送核心文件
